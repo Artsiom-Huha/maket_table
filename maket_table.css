@@ -14,7 +14,6 @@ th.head-1{
 h2{
     text-align: center;
     margin-top: 10px;
-    padding-top: 0;
 }
 .col-1{
     width: 150px;
@@ -43,5 +42,5 @@ th{
     background-color: #18c8e7;
 }
 td{
-    vertical-align:top;
+    vertical-align: top;
 }
