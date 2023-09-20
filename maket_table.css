@@ -1,0 +1,42 @@
+img{
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+table{
+    max-width: 600px;
+}
+
+th.head-1{
+    background-color: #18c8e7;
+}
+h2{
+    text-align: center;
+    margin-top: 0;
+    padding-top: 0;
+}
+.col-1{
+    width: 150px;
+    background-color: #e2f116;
+}
+.col-2{
+    background: url(/ball.png) top right repeat-y;
+}
+p{
+    text-align: left;
+    padding-left: 20px;
+}
+h3{
+    padding-left: 10px;
+    font-size: 16px;
+    margin-bottom: 0;
+}
+ul{
+    margin-top: 7px;
+}
+.head-2{
+    height: 40px;
+}
+th{
+    background-color: #18c8e7;
+}
